@@ -1,5 +1,4 @@
 # Supermarket sales Data Exploration
-## by J.Zakaria
 
 
 ## Dataset
